@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **Ngcebo Ngcobo**, a recent graduate in Information Technology System Support Engineering. I'm currently an **IT Support Intern at Capaciti**. I have a strong foundation in both **network administration** and **software development**, and I am passionate about creating seamless user experiences and solving complex technical challenges.
+Hi! I'm Ngcebo Ngcobo, a recent graduate in Information Technology System Support Engineering. I'm currently an IT Support Intern at Capaciti. I have a strong foundation in both network administration and software development, and I am passionate about creating seamless user experiences and solving complex technical challenges.
 
 ---
 
@@ -10,21 +10,21 @@ Hi! I'm **Ngcebo Ngcobo**, a recent graduate in Information Technology System Su
 
 ### Technical Skills
 
-- **HTML/CSS
-- **JavaScript
-- **C++
-- **Figma
-- **Prototyping
-- **User Research
+- HTML/CSS
+- JavaScript
+- C++
+- Figma
+- Prototyping
+- User Research
 
 ### IT & Project Management
 
-- **Network Administration
-- **Software Solution Development
-- **Troubleshooting Technical Issues
-- **Agile Methodology
-- **Scrum
-- **Team Leadership
+- Network Administration
+- Software Solution Development
+- Troubleshooting Technical Issues
+- Agile Methodology
+- Scrum
+- Team Leadership
 
 - Projects I've Done
 - Content Generator
